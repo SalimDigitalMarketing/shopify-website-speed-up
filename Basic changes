@@ -1,3 +1,5 @@
 #check here website speed https://gtmetrix.com
 
-# compress images size
+# compress images size https://tinypng.com/
+
+# split extra URL use | split:'?' | first
