@@ -3,3 +3,4 @@
 # compress images size https://tinypng.com/
 
 # split extra URL use | split:'?' | first
+#Minify Javascript
